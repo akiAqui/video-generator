@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                // 最新のJavaScriptをターゲット
+    "module": "CommonJS",           // Node.js 互換のモジュール形式
+    "outDir": "./dist",             // 出力先
+    "rootDir": "./",                // 入力ファイルのルートディレクトリ
+    "strict": true,                 // 厳密な型チェック
+    "esModuleInterop": true,        // ESモジュールとの互換性
+    "moduleResolution": "node"      // モジュール解決方法
+  },
+  "include": ["server/**/*.ts"],     // トランスパイル対象
+  "exclude": ["node_modules"]        // 除外対象
+}

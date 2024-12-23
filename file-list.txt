@@ -1,0 +1,12 @@
+file '/home/akihisa/html.ts/video-generator/public/frame01.png'
+duration 1
+file '/home/akihisa/html.ts/video-generator/public/frame02.png'
+duration 1
+file '/home/akihisa/html.ts/video-generator/public/frame01.png'
+duration 1
+file '/home/akihisa/html.ts/video-generator/public/frame02.png'
+duration 1
+file '/home/akihisa/html.ts/video-generator/public/frame01.png'
+duration 1
+file '/home/akihisa/html.ts/video-generator/public/frame02.png'
+duration 1
